@@ -1,12 +1,12 @@
 {
-  "name": "react-native-image-viewing",
+  "name": "better-react-native-image-viewing",
   "version": "0.2.2",
-  "description": "React Native modal component for viewing images as a sliding gallery",
+  "description": "React Native modal component for viewing images as a sliding gallery with the android scale issue fix ",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jobtoday/react-native-image-viewing.git"
+    "url": "git+https://github.com/LimitedDani/react-native-image-viewing.git"
   },
   "keywords": [
     "react",
@@ -32,9 +32,9 @@
   "author": "Anton Kalinin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jobtoday/react-native-image-viewing/issues"
+    "url": "https://github.com/LimitedDani/react-native-image-viewing/issues"
   },
-  "homepage": "https://github.com/jobtoday/react-native-image-viewing#readme",
+  "homepage": "https://github.com/LimitedDani/react-native-image-viewing#readme",
   "devDependencies": {
     "@babel/runtime": "7.7.4",
     "@types/react": "16.9.13",
