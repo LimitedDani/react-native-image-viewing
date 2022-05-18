@@ -1,6 +1,6 @@
-# react-native-image-viewing
+# better-react-native-image-viewing
 
-> React Native modal component for viewing images as a sliding gallery.
+> React Native modal component for viewing images as a sliding gallery. With the android Scale Fix!
 
 [![npm version](https://badge.fury.io/js/react-native-image-viewing.svg)](https://badge.fury.io/js/react-native-image-viewing)
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
@@ -20,19 +20,19 @@ Try with Expo: https://expo.io/@antonkalinin/react-native-image-viewing
 ## Installation
 
 ```bash
-yarn add react-native-image-viewing
+yarn add better-react-native-image-viewing
 ```
 
 or
 
 ```bash
-npm install --save react-native-image-viewing
+npm install --save better-react-native-image-viewing
 ```
 
 ## Usage
 
 ```jsx
-import ImageView from "react-native-image-viewing";
+import ImageView from "better-react-native-image-viewing";
 
 const images = [
   {
@@ -82,7 +82,7 @@ const [visible, setIsVisible] = useState(false);
 
 ## Contributing
 
-To start contributing clone this repo and then run inside `react-native-image-viewing` folder:
+To start contributing clone this repo and then run inside `better-react-native-image-viewing` folder:
 
 ```bash
 yarn
