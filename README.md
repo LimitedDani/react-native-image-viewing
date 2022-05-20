@@ -2,7 +2,7 @@
 
 > React Native modal component for viewing images as a sliding gallery. With the android Scale Fix!
 
-[![npm version](https://badge.fury.io/js/react-native-image-viewing.svg)](https://badge.fury.io/js/react-native-image-viewing)
+[![npm version](https://badge.fury.io/js/better-react-native-image-viewing.svg)](https://badge.fury.io/js/better-react-native-image-viewing)
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
 - 🔥Pinch zoom for both iOS and Android
