@@ -1,6 +1,6 @@
 {
   "name": "better-react-native-image-viewing",
-  "version": "0.2.4",
+  "version": "0.2.6",
   "description": "React Native modal component for viewing images as a sliding gallery with the android scale issue fix ",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
