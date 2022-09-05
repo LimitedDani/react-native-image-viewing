@@ -46,7 +46,7 @@ const ImageItem = ({
   onRequestClose,
   onLongPress,
   delayLongPress,
-  swipeToCloseEnabled = true,
+  swipeToCloseEnabled = false,
   doubleTapToZoomEnabled = true,
   layout
 }: Props) => {

@@ -73,7 +73,7 @@ const [visible, setIsVisible] = useState(false);
 | `animationType`          | Animation modal presented with: default `fade`                                                      | `none`, `fade`, `slide`                                     | false    |
 | `presentationStyle`      | Modal presentation style: default: `fullScreen` **Android:** Use `overFullScreen` to hide StatusBar | `fullScreen`, `pageSheet`, `formSheet`, `overFullScreen`    | false    |
 | `backgroundColor`        | Background color of the modal in HEX (#000000EE)                                                    | string                                                      | false    |
-| `swipeToCloseEnabled`    | Close modal with swipe up or down: default `true`                                                   | boolean                                                     | false    |
+| `swipeToCloseEnabled`    | Close modal with swipe up or down: default `false`                                                   | boolean                                                     | false    |
 | `doubleTapToZoomEnabled` | Zoom image by double tap on it: default `true`                                                      | boolean                                                     | false    |
 | `HeaderComponent`        | Header component, gets current `imageIndex` as a prop                                               | component, function                                         | false    |
 | `FooterComponent`        | Footer component, gets current `imageIndex` as a prop                                               | component, function                                         | false    |
